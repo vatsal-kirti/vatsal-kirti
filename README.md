@@ -1,4 +1,7 @@
-Name- Vatsal Kirti Srivastava
-Branch- B.Tech(CSE(Cloud Computing and Automation))
-Year-2025-29
-I Want to learn web development in upcoming time
+# Hi there, I'm [Vatsal Kirti Srivastava] 👋
+
+- 🎓 **Branch:** [CSE (CLoud Computing)]
+- 📅 **Year:** [1st Year]
+- 🔭 **Learning Goal:** I hope to learn web developmwnt.
+
+---
